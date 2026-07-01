@@ -1,18 +1,28 @@
-# ¡Hola! Soy el desarrollador detrás de GramSEO Studio 👋
+# Hi there! I'm the developer behind GramSEO Studio 👋
 
-Desarrollador Full Stack y Arquitecto de Automatizaciones enfocado en construir productos digitales eficientes, flujos lógicos complejos e integraciones de software modernas.
+I am a Full Stack Developer, Automation Architect, and Bug Bounty Hunter focused on building highly efficient digital products, complex logical workflows, and modern software integrations. 
 
-### 🛠️ Tech Stack & Herramientas:
-- **Frontend & Despliegues:** Next.js, React, Tailwind CSS, Vercel.
-- **Backend & Bases de Datos:** Supabase, PostgreSQL, Arquitecturas de APIs (REST).
-- **Automatización e IA:** n8n, flujos lógicos con LLMs, arquitecturas de agentes.
-- **Ecosistema Web3:** Colaborando activamente en soluciones open-source y ecosistemas distribuidos.
+By leveraging a strict **Spec-Driven Development (SDD)** approach, I ensure that every piece of code I write or bug I fix is backed by robust technical documentation, clean commit histories, and flawless Pull Requests.
+
+### 🛠️ Tech Stack & Tools:
+- **Frontend & Deployment:** Next.js, React, Tailwind CSS, Vercel.
+- **Backend & Databases:** Supabase, PostgreSQL, REST API Architectures, Prisma.
+- **Automation & AI:** n8n (advanced workflow orchestration), LLM-driven logical flows, Autonomous Agent architectures.
+- **Environment & Console:** Git Bash terminal powerhouse, Git/GitHub distributed version control.
 
 ---
 
-### 🚀 Mi Enfoque Actual
-- 🎯 **Validación de Producto:** Pruebas rigurosas de QA/UX en fases tempranas (Testnet/Mainnet) aportando reportes técnicos detallados directamente desde la consola de desarrollo.
-- 💻 **Desarrollo Open-Source:** Resolución de micro-bounties y features de complejidad media enfocadas en mejorar la interfaz y las conexiones de API de proyectos Web3.
-- 🤖 **Optimización con IA:** Uso avanzado de ingeniería de prompts y agentes locales para acelerar los ciclos de entrega de código y garantizar despliegues limpios.
+### 🚀 Current Focus & Open-Source Contributions
+- 🎯 **Bug Bounty & Core Contributing:** Actively tracking and squashing critical production bugs in modern web applications. Expert at handling code refactors, dynamic error handling, and API connectivity issues.
+- 💻 **Spec-Driven Development (SDD):** Moving away from chaotic coding by establishing ironclad technical guidelines (`spec/`, `plan.md`, and verification tracking) *before* touching a single line of code.
+- 🤖 **AI-Accelerated Engineering:** Utilizing advanced prompt engineering and local workflows to accelerate code delivery cycles, maximize test coverage, and ensure clean, conflict-free merges.
 
-_¡Listo para aportar código de alto valor y colaborar con equipos globales!_
+---
+
+### 💼 Business & Consulting Background
+Beyond code, I run **GRAM Digital Solution**, a B2B agency specializing in implementing AI-driven websites, automated scheduling receptionists, and intelligent lead qualification funnels. I speak the language of business, making me the perfect bridge between complex software engineering and high-ticket sales conversion.
+
+_Ready to deliver high-value code and collaborate with engineering teams worldwide!_
+
+📬 **Connect with me:** gramseostudio@gmail.com | andresmauriciogil0521@gmail.com
+🌐 **Live Portfolios:** [GramSEO Studio](https://gramseostudio.com) | [AI Agent Agency](https://agencia-de-sitios-web-con-ia-v2.vercel.app/)
